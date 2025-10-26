@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="D:\final\movement\modules\my-module\android"
+    name=":my-module"
+    type="LIBRARY"
+    maven="expo.modules.mymodule:my-module:0.6.3"
+    agpVersion="8.6.0"
+    buildFolder="build"
+    bootClassPath="C:\Users\Aditya\AppData\Local\Android\Sdk\platforms\android-35\android.jar;C:\Users\Aditya\AppData\Local\Android\Sdk\build-tools\34.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-35"
+    neverShrinking="true">
+  <lintOptions
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
